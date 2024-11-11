@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Naman Garg
-- 👀 I’m interested in WEB D ,AI ML and doing DSA.
-- 🌱 I’m currently studying in Btech CSE in DTU ,New Delhi
-- 📫 you can reach me through LinkedIN: www.linkedin.com/in/naman-garg1207
-- 😄 Pronouns: he/him
+-    I have interest in WEB D ,AI ML and doing DSA.
+-    I’m currently studying in Btech CSE in DTU ,New Delhi
+-    LinkedIN: www.linkedin.com/in/naman-garg1207
 - ⚡ Always ready to talk with tech enthusiast and mentors .
 
   
